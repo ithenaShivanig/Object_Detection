@@ -1,0 +1,13 @@
+train: C:/Users/shivanig_ithena/object detection/dataset/augmented/train_aug/images
+val: C:/Users/shivanig_ithena/object detection/dataset/augmented/valid_aug/images
+test: C:/Users/shivanig_ithena/object detection/dataset/augmented/test_aug/images
+
+nc: 3
+names: ['Batman', 'House', 'Penguin']
+
+roboflow:
+  workspace: shivani-yafd4
+  project: object-detection-60oun
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/shivani-yafd4/object-detection-60oun/2
