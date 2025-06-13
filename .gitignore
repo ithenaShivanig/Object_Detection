@@ -1,0 +1,22 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints (if you use Jupyter)
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Dependencies
+# Usually installed in venv, but just in case
+# node_modules/
+
+# IDE specific files
+.vscode/ # VS Code settings specific to your machine
+.idea/ # IntelliJ / PyCharm
